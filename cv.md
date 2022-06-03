@@ -3,6 +3,7 @@
 + #### *Phone*: +375 29 3599326
 + #### *Email*: aastapenka@inbox.ru
 + #### *GitHub*: [Alina-Astapenka](https://github.com/Alina-Astapenka)
++ #### *Telegram*: [@alinaastapenka](https://t.me/alinaastapenka)
 ***
 ### About myself:
 At the moment I work as a specialist in the search and collection of information. Lately I have been interested in the topic of information technology. 
