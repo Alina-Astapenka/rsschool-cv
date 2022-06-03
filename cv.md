@@ -4,6 +4,7 @@
 + #### *Email*: aastapenka@inbox.ru
 + #### *GitHub*: [Alina-Astapenka](https://github.com/Alina-Astapenka)
 + #### *Telegram*: [@alinaastapenka](https://t.me/alinaastapenka)
++ #### *Discord*: [@alina-astapenka](https://discord.com/)
 ***
 ### About myself:
 At the moment I work as a specialist in the search and collection of information. Lately I have been interested in the topic of information technology. 
