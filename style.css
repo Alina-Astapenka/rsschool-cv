@@ -1,1 +1,57 @@
-My CV css
+* {
+  box-sizing: border-box;
+  }
+
+body {
+	min-height: 100vh;
+	margin: 0;
+	padding: 0;
+}
+
+.wrapper {
+	max-width: 1440px;
+	margin: 0 auto;
+}
+
+.header {
+	display: flex;
+  justify-content: space-around;
+	padding: 50px;
+}
+
+.title {
+	text-align: center;
+}
+
+.container-header {
+	padding: 50px;
+}
+
+.title {
+	font-size: 32px;
+}
+
+.subtitle {
+	font-size: 17px;
+	text-transform: uppercase;
+}
+
+hr {
+	width: 80px;
+}
+
+.main-subtitle {
+	text-align: center;
+
+}
+
+.main-desc {
+	text-align: center;
+	padding: 0 20px;
+}
+
+.wrap {
+	display: flex;
+	justify-content: space-around;
+
+}
